@@ -1,3 +1,3 @@
 # NasuaOS-Bootloader
 
-Bootloader template for NasuaOS.
+Bootloader template for NasuaOS. All
